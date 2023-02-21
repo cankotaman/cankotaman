@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there<img src"" width="55px" height="55px">,  I am Can </h1>
+<h1 align="center"> Hi there<img src"https://raw.githubusercontent.com/cankotaman/cankotaman/main/Wave.gif" width="55px" height="55px">,  I am Can </h1>
 <h3 align="center">      </h3>
 <br>
 <p align="center">
