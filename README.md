@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there<img src"https://raw.githubusercontent.com/cankotaman/cankotaman/main/Wave.gif" width="55px" height="55px">,  I am Can </h1>
+<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/cankotaman/cankotaman/main/Wave.gif" height="80px" width="80px">,  I am Can </h1>
 <h3 align="center">      </h3>
 <br>
 <p align="center">
@@ -11,8 +11,11 @@
 </a>
 <br />
 
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on Frontend Development;
+- 🌱 I’m currently learning React; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@can__ktmn](https://www.instagram.com/can__ktmn/);
+- 📝[Resume](https://drive.google.com/file/d/1uLXftyRT5h5iEB-L-BjKeKx4hKB9ZK5_/view?usp=sharing)
 
