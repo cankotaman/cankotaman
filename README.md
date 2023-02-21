@@ -7,12 +7,14 @@
 
 ## 🎉 Social
 
-![](https://visitor-badge.glitch.me/badge?page_id=cankotaman.cankotaman)
 <a href="https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0" target="_blank">
-  <img align="left" alt="Mitul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Can's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br>
-<br>
+<a href="https://twitter.com/CanKtmn">
+  <img align="left" alt="Can | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=cankotaman.cankotaman)
 <br>
 
 ## 😏 Talking about Personal Stuffs:
@@ -43,6 +45,22 @@
 <code><img alt="Git" height="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img alt="GitHub" height="60" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
 
+## 
+
+![WalkingCodeGIF](https://user-images.githubusercontent.com/120656383/220452263-ad04bd3b-cc81-401e-8f7a-a12290fc28ec.gif)
+![DnaCodeGIF](https://user-images.githubusercontent.com/120656383/220452179-6b3979d3-262f-4194-9075-9de72565ef5f.gif)
+
+## 📊 My GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cankotaman&theme=chartreuse-dark" alt="cankotaman" width="50%"/> </p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cankotaman&theme=chartreuse-dark" alt="my commit status" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankotaman&theme=chartreuse-dark&layout=compact" alt="cankotaman" width="49%"> </p>
+
+
+ 
 
 
 
