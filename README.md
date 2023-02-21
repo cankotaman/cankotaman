@@ -2,7 +2,7 @@
 <h3 align="center">      </h3>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CAN++KOTAMAN;Student;Frontend++Developer;Programmer&font=Fira%20Code&center=true&width=400&height=70">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=CAN++KOTAMAN;Student;Frontend++Developer&font=Fira%20Code&center=true&width=400&height=90">
 </p>
 
 - 🌱 I’m currently learning React
