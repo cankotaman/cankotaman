@@ -30,10 +30,30 @@
 <code><img alt="Tailwindcss" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png"></code>
 <code><img alt="JavaScript" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img alt="React" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<br>
 
 ##  🖥️ Backend
 
 <code><img alt="Python" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<br>
+
+## 🔧 Tools
+
+<code><img alt="VisualStudioCode" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img alt="Git" height="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img alt="GitHub" height="60" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
