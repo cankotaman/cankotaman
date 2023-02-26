@@ -2,7 +2,7 @@
 <h3 align="center">      </h3>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CAN++KOTAMAN;Student;16++years++old++Junior++Developer;Frontend++Developer&font=Fira%20Code&center=true&width=400&height=100">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=CAN++KOTAMAN;Student;16++years++old;Junior++Developer;Frontend++Developer&font=Fira%20Code&center=true&width=400&height=100">
 </p>
 
 ## 🎉 Social
