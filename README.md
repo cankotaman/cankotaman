@@ -7,7 +7,7 @@
 
 ## 🎉 Social
 
-<a href="https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0" target="_blank">
+<a href="https://www.linkedin.com/in/can-kotaman-0a3a60262/" target="_blank">
   <img align="left" alt="Can's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/CanKtmn">
