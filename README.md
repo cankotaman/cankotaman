@@ -23,7 +23,8 @@
 - 🌱 I’m currently learning React; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@can__ktmn](https://www.instagram.com/can__ktmn/);
-- 🖥️ My Published websites : http://taydashirdavat.com/ 
+- 🖥️ My Published websites : 
+- http://taydashirdavat.com/ 
 <br>
 
 ## 🖥️ Frontend
