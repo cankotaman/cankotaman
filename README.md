@@ -25,8 +25,7 @@
 - 📫 How to reach me: [@can__ktmn](https://www.instagram.com/can__ktmn/);
 - 🖥️ My Published websites : 
 - 1- <a href="http://taydashirdavat.com/ " target="_blank">
-  Taydaş Ticaret
-</a>
+  Taydaş Ticaret </a>
 <br>
 
 ## 🖥️ Frontend
