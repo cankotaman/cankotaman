@@ -24,7 +24,9 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@can__ktmn](https://www.instagram.com/can__ktmn/);
 - 🖥️ My Published websites : 
-- http://taydashirdavat.com/ 
+- <a href="http://taydashirdavat.com/ " target="_blank">
+  Taydaş Ticaret
+</a>
 <br>
 
 ## 🖥️ Frontend
