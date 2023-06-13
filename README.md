@@ -24,8 +24,8 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@can__ktmn](https://www.instagram.com/can__ktmn/);
 - 🖥️ My Published websites : 
-- 1- <a href="http://taydashirdavat.com/ " target="_blank">
-  Taydaş Ticaret </a>
+- 1- <a href="http://taydashirdavat.com/ " target="_blank">Taydaş Marketing </a>
+- - 1- <a href="https://www.nuanscelikkapi.com/" target="_blank">Nüans Steel Door </a>
 <br>
 
 ## 🖥️ Frontend
