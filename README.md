@@ -3,6 +3,8 @@
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=CAN++KOTAMAN;Junior++Developer;Student;16++years++old;Frontend++Developer&font=Fira%20Code&center=true&width=400&height=100">
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=6000&pause=1000&color=7FFF00&background=FFFFFF00&width=461&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 </p>
 
 ## 🎉 Social
