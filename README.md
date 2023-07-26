@@ -7,18 +7,6 @@
   
 </p>
 
-## 🎉 Social
-
-<a href="https://www.linkedin.com/in/can-kotaman-0a3a60262/" target="_blank">
-  <img align="left" alt="Can's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/CanKtmn" target="_blank">
-  <img align="left" alt="Can | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=cankotaman.cankotaman)
-<br>
-
 ## 😏 Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on Frontend Development;
