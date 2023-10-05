@@ -36,7 +36,7 @@
 
 <code><img alt="VisualStudioCode" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img alt="Git" height="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img alt="GitHub" height="60" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
+<code><img alt="GitHub" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Scs1b7xBgPou5Tiv_9YCOaHC0qtGoo4tWA&usqp=CAU"></code>
 
 ## 
 
