@@ -12,7 +12,7 @@
 - 👨🏽‍💻 I’m currently working on Frontend Development;
 - 🌱 I’m currently learning React; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@can__ktmn](https://www.instagram.com/can__ktmn/);
+- 📫 How to reach me: [@can__ktmn](https://www.instagram.com/canktmn/);
 - 🖥️ My Published websites : 
 - 1- <a href="http://taydashirdavat.com/ " target="_blank">Taydaş Marketing </a>
 - 2- <a href="https://www.nuanscelikkapi.com/" target="_blank">Nüans Steel Door </a>
