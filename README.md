@@ -39,11 +39,6 @@
 <code><img alt="Git" height="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img alt="GitHub" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Scs1b7xBgPou5Tiv_9YCOaHC0qtGoo4tWA&usqp=CAU"></code>
 
-## 
-
-![WalkingCodeGIF](https://user-images.githubusercontent.com/120656383/220452263-ad04bd3b-cc81-401e-8f7a-a12290fc28ec.gif)
-![DnaCodeGIF](https://user-images.githubusercontent.com/120656383/220452179-6b3979d3-262f-4194-9075-9de72565ef5f.gif)
-
 ## 📊 My GitHub Stats
 
 <p align="center">
