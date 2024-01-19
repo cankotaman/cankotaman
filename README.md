@@ -10,7 +10,7 @@
 ## 😏 Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on Frontend Development;
-- 🌱 I’m currently learning React; 
+- 🌱 I’m currently learning Next.js; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@canktmn](https://www.instagram.com/canktmn/);
 - 🖥️ My Published websites : 
