@@ -26,6 +26,7 @@
 <code><img alt="Tailwindcss" height="60" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"></code>
 <code><img alt="JavaScript" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img alt="React" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img alt="Next" height="60" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.openxcell.com%2Fwp-content%2Fuploads%2F2021%2F11%2Fdango-inner-2.png&tbnid=lzpcBGTxdEzagM&vet=12ahUKEwj_-a363umDAxWBhv0HHXjlDloQMygJegQIARBj..i&imgrefurl=https%3A%2F%2Fwww.openxcell.com%2Fweb-development-company%2Fnext-js-development-company%2F&docid=8HdLzTbra67n_M&w=550&h=550&q=next.js%20image%20png&ved=2ahUKEwj_-a363umDAxWBhv0HHXjlDloQMygJegQIARBj"></code>
 <br>
 
 ##  🖥️ Backend
